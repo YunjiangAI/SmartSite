@@ -13,27 +13,27 @@
 
 ## 功能结构
 
-![](https://secure2.wostatic.cn/static/psGqkHyv4PLG3t6nSVBZdK/image.png?auth_key=1690879950-masuLefJ3dXdvzkU73HB6G-0-3af13cf31250a1a66265a4195ff86beb)
+![](https://secure2.wostatic.cn/static/psGqkHyv4PLG3t6nSVBZdK/image.png?auth_key=1690985596-x8Wq86yv5UXSx21BLKEMEu-0-3459212cb7f36199914d526267bc89be)
 
-![](https://secure2.wostatic.cn/static/qHBqhERvFakk3nwLPKnnmE/汇匠源智慧住建企业介绍的副本_00_副本.jpg?auth_key=1690879950-srUV7BtfCRBt84fNcfrf6M-0-bd236fc28ed5af3050579af4204a685d)
+![](https://secure2.wostatic.cn/static/qHBqhERvFakk3nwLPKnnmE/汇匠源智慧住建企业介绍的副本_00_副本.jpg?auth_key=1690985596-w5AixNNASsmVNpm79t7BY7-0-927b21d9d774402193133c31138580df)
 
 # 系统架构
 
-![](https://secure2.wostatic.cn/static/PAMv9edqDnZVomEzRSXk7/汇匠源智慧住建企业介绍的副本_00.png?auth_key=1690879950-hLP7FJ3XhFbwcFGCvwdGAk-0-15cc53c93fc679e705aac2c6ade18a3a)
+![](https://secure2.wostatic.cn/static/PAMv9edqDnZVomEzRSXk7/汇匠源智慧住建企业介绍的副本_00.png?auth_key=1690985596-g8ULQSEE98EaS6ZjTWY7WC-0-74ed62032e6d9777a286c73eaf83ee8e)
 
 ## 系统截图
 
-![](https://secure2.wostatic.cn/static/vsMxnrQXuXeXx4j73DUF4k/image.png?auth_key=1690879950-t5bqfK8yfWQMacJBmPpGTM-0-cddf64d5d5f7fe338525ca213a7255df)
+![](https://secure2.wostatic.cn/static/vsMxnrQXuXeXx4j73DUF4k/image.png?auth_key=1690985596-cL3LdLMLzXsF8ps9YrkHiu-0-7edd4f8c054b9db4b33cfe1f7f263fbb)
 
-![](https://secure2.wostatic.cn/static/9znEUAWTT5F5n6wHwXj2V3/image.png?auth_key=1690879950-i8ofXNYWuLHE7ce2rcpNXb-0-9ee04716c22954cad3f60c61289094b0)
+![](https://secure2.wostatic.cn/static/9znEUAWTT5F5n6wHwXj2V3/image.png?auth_key=1690985596-fysgHzm7BMo9Bd9TtZ2ggf-0-d45013239694e9d3912a747fd32cdd4c)
 
-![](https://secure2.wostatic.cn/static/tGot3rKdQt1cu8yk9Grnhk/image.png?auth_key=1690879950-2TYA8ii59W4HRbS8fyUbPZ-0-93ca5c4d1ef9aa81f2b3c88f78295e26)
+![](https://secure2.wostatic.cn/static/tGot3rKdQt1cu8yk9Grnhk/image.png?auth_key=1690985596-2AN9bwJ7f7imKwxZnJXuVs-0-bf632e9b6df92f546a65b09aa217d0c6)
 
-![](https://secure2.wostatic.cn/static/pCcmV9yTTJNYKV2fhWMYk8/image.png?auth_key=1690879950-8Lby6FoMFCWodGpohg5KC8-0-97c5116f6854c81bda88351381c696ec)
+![](https://secure2.wostatic.cn/static/pCcmV9yTTJNYKV2fhWMYk8/image.png?auth_key=1690985596-ozcAsQLUFBKYCTSk6piKuB-0-832371d1e06fc3413cea28a392cffc75)
 
 ## 客户案例
 
-![](https://secure2.wostatic.cn/static/7AzbHibJiWBTbwoovQb46F/image.png?auth_key=1690879950-nwm6bTYZujCZw3RU2knbth-0-f6466b23cb834dbada1f9981276c6bd5)
+![](https://secure2.wostatic.cn/static/7AzbHibJiWBTbwoovQb46F/image.png?auth_key=1690985596-r9ENg8N7SCzA6uQvXWtZSp-0-13ecbd26ade08aa53c3f2397634819e3)
 
 # 服务方式
 
